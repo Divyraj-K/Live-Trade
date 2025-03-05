@@ -2,3 +2,5 @@ streamlit
 pandas
 requests
 plotly
+time
+plotly.graph_objects
